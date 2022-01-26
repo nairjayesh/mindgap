@@ -27,6 +27,17 @@
   
 
   
+      ,"page2": {
+          "title": "Excerpts",
+          "content": "I come across really interesting excerpts once in a while, that I would like to explore further. This is the place where I would store such excerpts at Mind Gap. .",
+          "url": "https://nairjayesh.github.io/mindgap/excerpts/",
+          "relUrl": "/excerpts/",
+          "date": ""
+      }
+      
+  
+
+  
 
   
   
@@ -48,7 +59,7 @@
   
 
   
-      ,"page10": {
+      ,"page11": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "https://nairjayesh.github.io/mindgap/robots.txt",
