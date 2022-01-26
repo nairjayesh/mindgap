@@ -1,9 +1,9 @@
 ---
 layout: page
-title: About Me
+title: About
 permalink: /about/
 ---
 
-Mind Gap was built as my home on the Internet. I truly want to explore topics that I think are "Gaps" in my "Mind", things that at the time are truly important to learn and write about. 
-Majority of my time is spent on working in the [Industry - 4.0](https://en.wikipedia.org/wiki/Fourth_Industrial_Revolution), at a startup. 
-Feel free to reach out to me via below social media channels. 
+>"Mind the gap" or sometimes "watch the gap" is an audible or visual warning phrase issued to rail passengers to take caution while crossing the horizontal, and in some cases vertical, spatial gap between the train door and the station platform.
+
+Although not a warning in this case - the website name is a catch-all phrase for the gaps I've encountered in my understanding of things - and my attempt to fill in such gaps. No general themes involved. 
