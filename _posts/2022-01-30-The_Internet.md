@@ -1,7 +1,5 @@
 ---
-toc: true
 layout: post
-description: A minimal example of using markdown with fastpages.
 title: An Ode to the Internet
 ---
 
