@@ -49,7 +49,7 @@ That all along - what was hindering learning - was the very thing that advertise
 
 And so many other such illusions were revealed.
 
-This was liberating - I could for the first time - pursue things on my own terms, test my beliefs and learn new things on my own time and in a way that was unique fit for my context.
+This was liberating - I could for the first time - pursue things on my own terms, test my beliefs and learn new things on my own time and in a way that was unique to me.
 
 That was not all - it even enabled me to explore my interests. Seek out opportunities I never thought I would have been capable of acting upon.
 
