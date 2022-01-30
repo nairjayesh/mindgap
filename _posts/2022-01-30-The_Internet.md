@@ -41,7 +41,7 @@ Without exposure to anything that challenges these rules and environment.
 
 We grow up believing that this environment and its rules is world.
 
-The Internet erased a side that challenged this side. Without needing the approval of teachers or parents - I was in a sense free.
+The Internet enabled exposure to things that challenged this environment. Without needing the approval of teachers or parents - I was in a sense free.
 
 Free to read and think about things that challenged the rules and the environment I was brought up in.
 
