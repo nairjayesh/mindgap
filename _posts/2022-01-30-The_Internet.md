@@ -1,7 +1,6 @@
 ---
 layout: post
 title: An Ode to the Internet
-permalink: /Internet/
 ---
 
 ### I. 
