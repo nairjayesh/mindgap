@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Howard Rorak's Courtroom Speech
-description: Here's the Speech by Howard Roark given in the courtroom, from the book [The Fountainhead](https://www.amazon.in/Fountainhead-Ayn-Rand/dp/0451191153)
+description: Here's the Speech by Howard Roark given in the courtroom, from the book The Fountainhead
 ---
 
 Thousands of years ago, the first man discovered how to make fire. He was probably burned at the stake he had taught his brothers to light. He was considered an evildoer who had de with a demon mankind dreaded. But thereafter men had fire to keep them warm, to cook their food, to light their caves. He had left them a gift they had not conceived and he had lifted darkness off the earth. Centuries later, the first man invented the wheel. He was probably torn on the rack he had taught his brothers to build. He was considered a transgressor who ventured into forbidden territory. But thereafter, men could travel past any horizon. He had left them a gift they had not conceived and he had opened the roads of the world.
