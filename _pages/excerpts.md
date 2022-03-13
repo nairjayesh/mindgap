@@ -5,6 +5,8 @@ permalink: /excerpts/
 ---
 Interesting excerpts I've come across.
 
+>"M: THe Way is a quality. A Quality of observation, keen discriminatoin, and interior examination. If you Wait, you will be a beggar who deserves nothing. If you Work, you will be a mule who attains nothing. You must seek to Understand, student. Understand the patterns of your life that have repeated themselves over and over again. And this understanding is borne of astute and incisive observation.And this astute and incisive observation is borne of Genuine Desire to be immune to all things that life has to offer. Most especially the "good" things."
+
 >"The company is one of the most amazing inventions of humans, this abstract construct that's incredibly powerful. Even so, for me, it's about the products. It's about working together with really fun, smart, creative people and making wonderful things. It's not about the money. What a company is, then, is a group of people who can make more than just the next big thing. It's a talent, it's a capability, it's a culture, it's a point of view, and it's a way of working together to make the next thing, and the next one, and the next one." A talent, a capability, a culture, and a point of view: the Apple he was in the midst of re-creating would have all these things, as would the products it would create. -[Becoming Steve Jobs](https://www.amazon.in/Becoming-Steve-Jobs-Evolution-Visionary/dp/0385347421)
 
 
